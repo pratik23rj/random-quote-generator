@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #6366F1;
+    margin: 1rem;
+    
+    
+}
+
+.container{
+    width: 80%;
+    margin: 200px auto;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#quoteBtn{
+    border: #18181B;
+    outline: none;
+    background-color: #18181B;
+    color: white;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    border-radius: 0.6rem;
+    cursor: pointer;
+}
+
+section{
+    background-color: #FAFAFA;
+    border-left: 8px solid #18181B;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+#author{
+    color: #18181B;
+}
